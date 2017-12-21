@@ -1,0 +1,6 @@
+Answer 1: 380
+Answer 2: 181
+
+real	0m0.036s
+user	0m0.032s
+sys	0m0.000s
